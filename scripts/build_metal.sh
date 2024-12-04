@@ -57,4 +57,4 @@ source "$METAL_PATH"/scripts/constants.sh
 
 build_args="$race"
 echo "Building MetalGo..."
-go build $build_args -ldflags "-X github.com/MetalBlockchain/metalgo/version.GitCommit=$git_commit $static_ld_flags" -o "$metalgo_path" "$METAL_PATH/main/"*.go
+go build $build_args -ldflags "-X github.com/ixAnkit/cryftgo/version.GitCommit=$git_commit $static_ld_flags" -o "$metalgo_path" "$METAL_PATH/main/"*.go
