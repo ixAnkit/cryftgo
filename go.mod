@@ -1,4 +1,4 @@
-module github.com/ixAnkit/metalgo
+module github.com/ixAnkit/cryftgo
 
 // Changes to the minimum golang version must also be replicated in
 // scripts/build_avalanche.sh
