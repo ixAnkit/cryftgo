@@ -5,7 +5,7 @@ set -euo pipefail
 print_usage() {
   printf "Usage: build [OPTIONS]
 
-  Build metalgo
+  Build cryftgo
 
   Options:
 
